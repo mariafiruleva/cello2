@@ -1,0 +1,6 @@
+design_name,parts,
+and_gate0,TCYC7,RiboJ00_S1,Pxyl,Kozak12,CI_a,TENO1,ElvJ_S3,pCI2_a,Kozak4,BM3RI_a,TGND1,RiboJ51_S5,pPhlF1_a,Kozak4,BM3RI_b,TTIP1,_NONCE_PAD,TADH1,PlmJ_S2,pBm3RI1_a,YFP_reporter_cassette,TTEF1,AraJ_S4,Ptet,Kozak1,PhlF_a,TGSY2
+and_gate1,TCYC7,RiboJ00_S1,pPhlF1_a,Kozak4,BM3RI_b,TENO1,ElvJ_S3,pCI2_a,Kozak4,BM3RI_a,TGND1,RiboJ51_S5,Ptet,Kozak1,PhlF_a,TTIP1,_NONCE_PAD,TADH1,PlmJ_S2,pBm3RI1_a,YFP_reporter_cassette,TTEF1,AraJ_S4,Pxyl,Kozak12,CI_a,TGSY2
+and_gate2,TCYC7,RiboJ00_S1,Ptet,Kozak1,PhlF_a,TENO1,ElvJ_S3,pCI2_a,Kozak4,BM3RI_a,TGND1,RiboJ51_S5,pPhlF1_a,Kozak4,BM3RI_b,TTIP1,_NONCE_PAD,TADH1,PlmJ_S2,pBm3RI1_a,YFP_reporter_cassette,TTEF1,AraJ_S4,Pxyl,Kozak12,CI_a,TGSY2
+and_gate3,TCYC7,RiboJ00_S1,Pxyl,Kozak12,CI_a,TENO1,ElvJ_S3,pCI2_a,Kozak4,BM3RI_a,TGND1,RiboJ51_S5,Ptet,Kozak1,PhlF_a,TTIP1,_NONCE_PAD,TADH1,PlmJ_S2,pBm3RI1_a,YFP_reporter_cassette,TTEF1,AraJ_S4,pPhlF1_a,Kozak4,BM3RI_b,TGSY2
+and_gate4,TCYC7,RiboJ00_S1,pPhlF1_a,Kozak4,BM3RI_b,TENO1,ElvJ_S3,pCI2_a,Kozak4,BM3RI_a,TGND1,RiboJ51_S5,Pxyl,Kozak12,CI_a,TTIP1,_NONCE_PAD,TADH1,PlmJ_S2,pBm3RI1_a,YFP_reporter_cassette,TTEF1,AraJ_S4,Ptet,Kozak1,PhlF_a,TGSY2

@@ -39,8 +39,8 @@ snakemake --cores 2
 
 ## Results
 
-Check `target/logic` folders for results, e.g., if target was `SC1C1G1T1` and logic was `xor`,
-check `SC1C1G1T1/xor.v` folder.
+Check `output/target/logic` folders for results, e.g., if target was `SC1C1G1T1` and logic was `xor`,
+check `output/SC1C1G1T1/xor.v` folder.
 
 ## References
 

@@ -1,0 +1,14 @@
+read_verilog input/logic/and.v
+flatten
+splitnets -ports
+hierarchy -auto-top
+proc
+techmap
+opt
+abc -g NOR
+opt
+hierarchy -auto-top
+opt_clean -purge
+show -format pdf -prefix output/SC1C1G1T1/and.v/and_yosys
+write_edif output/SC1C1G1T1/and.v/and.edif
+write_json output/SC1C1G1T1/and.v/and.json
