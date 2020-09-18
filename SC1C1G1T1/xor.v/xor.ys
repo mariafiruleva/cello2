@@ -1,0 +1,14 @@
+read_verilog logic/xor.v
+flatten
+splitnets -ports
+hierarchy -auto-top
+proc
+techmap
+opt
+abc -g NOR
+opt
+hierarchy -auto-top
+opt_clean -purge
+show -format pdf -prefix SC1C1G1T1/xor.v/xor_yosys
+write_edif SC1C1G1T1/xor.v/xor.edif
+write_json SC1C1G1T1/xor.v/xor.json
