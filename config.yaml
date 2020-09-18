@@ -1,4 +1,4 @@
 app_path: cello-dnacompiler-2.0.0-20200630.120213-15-jar-with-dependencies.jar
-data_path: example
-logic_path: logic
+data_path: input/example
+logic_path: input/logic
 targets: SC1C1G1T1
